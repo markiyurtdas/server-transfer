@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Doğal Ürünler",
+    "_id": 1,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "1s0",
+        "name": "Doğal Ürünler"
+      }
+    ]
+  },
+  {
+    "name": "Kahvaltım",
+    "_id": 10,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "10s0",
+        "name": "Kahvaltım"
+      }
+    ]
+  },
+  {
+    "name": "Tatlım",
+    "_id": 2,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "2s0",
+        "name": "Tatlım"
+      }
+    ]
+  },
+  {
+    "name": "Yemek",
+    "_id": 3,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "3s0",
+        "name": "Yemek"
+      }
+    ]
+  },
+  {
+    "name": "Elektronik",
+    "_id": 4,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "4s0",
+        "name": "Elektronik"
+      }
+    ]
+  },
+  {
+    "name": "Anne ve Bebek",
+    "_id": 5,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "5s0",
+        "name": "Anne ve Bebek"
+      }
+    ]
+  },
+  {
+    "name": "Ev ve Yaşam",
+    "_id": 6,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "6s0",
+        "name": "Ev ve Yaşam"
+      }
+      
+    ]
+  },
+  {
+    "name": "Kişisel Bakım",
+    "_id": 7,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "7s0",
+        "name": "Kişisel Bakım"
+      }
+    ]
+  },
+  {
+    "name": "Market",
+    "_id": 8,
+    "seo_url": "seo-url-duzenlenecek",
+    "url": "https://sanalmarket-com-web-assets.global.ssl.fastly.net/images/gidasekerleme.8a394dae.svg",
+    "sub_catagories": [
+      {
+        "_id": "8s0",
+        "name": "Market"
+      }
+    ]
+  }
+]
